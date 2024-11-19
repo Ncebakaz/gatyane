@@ -19,10 +19,6 @@ body {
   scrollbar-width: none;
 }
 
-#myCanvas {
-  border: 1px solid black;
-}
-
 .site-wrapper {
   min-height: 100vh;
   display: flex;
